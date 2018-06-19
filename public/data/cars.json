@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "make": "tesla",
+      "model": "one",
+      "inventory": 5
+    },
+    {
+      "id": 2,
+      "make": "tesla",
+      "model": "two",
+      "inventory": 4
+    },
+    {
+      "id": 3,
+      "make": "tesla",
+      "model": "three",
+      "inventory": 2
+    }
+  ]
+}
